@@ -4,7 +4,7 @@
 ## Technical Skill:
 
 Date	Course name	Provider	Certification No. <br /> 
-Jun 2020	Intermediate SQL Server	Datacamp	#14644405 <br />
+<div style="text-align:right"><img src="Jun 2020	Intermediate SQL Server	Datacamp	#14644405" /></div>
 Jun 2020	Introduction to SQL Server	Datacamp	#14594888 <br />
 May 2020	Data Manipulation with pandas	Datacamp	#138835 <br />
 May 2020	Intermediate Python	Datacamp	#13858306 <br />
