@@ -7,7 +7,7 @@
 <table class="tg">
   <thead>
   <tr>
-    <th class="tg-ffyu">Date</th>
+    <th class="tg-ffyu"><b>Date<b></th>
     <th class="tg-ffyu">Course name</th>
     <th class="tg-ffyu">Provider</th>
     <th class="tg-7jy7">Certification   No.</th>
