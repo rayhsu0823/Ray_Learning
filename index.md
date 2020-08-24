@@ -2,12 +2,9 @@
 
 
 
-### Markdown
+### Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Apr 2020 Python 2 - Codecademy
 
 # Header 1
 ## Header 2
