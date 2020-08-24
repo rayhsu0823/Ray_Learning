@@ -57,31 +57,5 @@
 
 ## Operational Skill:
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ffyu">Date</th>
-    <th class="tg-ffyu">Course name</th>
-    <th class="tg-ffyu">Provider</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-r9dg">Aug-20</td>
-    <td class="tg-4f2h">PROJECT MANAGEMENT AWARENESS</td>
-    <td class="tg-4f2h">Airbus Develop Centre of Excellence </td>
-  </tr>
-  <tr>
-    <td class="tg-iv0d">Oct-19</td>
-    <td class="tg-7s7c">DEALING WITH CONFLICT</td>
-    <td class="tg-7s7c">Airbus Develop Centre of Excellence </td>
-  </tr>
-  <tr>
-    <td class="tg-r9dg">Aug-19</td>
-    <td class="tg-4f2h">SELF AWARENESS AND PERSONAL DEVELOPMENT</td>
-    <td class="tg-4f2h">Airbus Develop Centre of Excellence </td>
-  </tr>
-</tbody>
-</table>
 
 <table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;border:none" class="tg"><thead><tr><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Date</th><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Course name</th><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Provider</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">Aug-20</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">PROJECT MANAGEMENT AWARENESS</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Airbus Develop Centre of Excellence </td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">Oct-19</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">DEALING WITH&nbsp;&nbsp;&nbsp;CONFLICT</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Airbus Develop Centre of Excellence </td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:right;vertical-align:top;word-break:normal">Aug-20</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">SELF AWARENESS&nbsp;&nbsp;&nbsp;AND PERSONAL DEVELOPMENT</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Airbus Develop Centre of Excellence </td></tr></tbody></table>
