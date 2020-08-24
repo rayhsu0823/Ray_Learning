@@ -14,7 +14,12 @@ Apr 2020	Learn Python 2 (Full Course)	Codecademy	N/A <br />
 
 ## Operational Skill:
 
-Date	Course name	Provider	Certification No.  <br />
-Aug 18, 2020	PROJECT MANAGEMENT AWARENESS	Airbus Develop Centre of Excellence 	N/A  <br />
-Oct 17-18, 2019	DEALING WITH CONFLICT	Airbus Develop Centre of Excellence 	N/A  <br />
-Aug, 29-30, 2020	SELF AWARENESS AND PERSONAL DEVELOPMENT	Airbus Develop Centre of Excellence 	N/A  <br />
+
+
+
+
+
+Date	Course name	Provider <br />
+Aug 18, 2020:	PROJECT MANAGEMENT AWARENESS	Airbus Develop Centre of Excellence <br />
+Oct 17-18, 2019:	DEALING WITH CONFLICT	Airbus Develop Centre of Excellence <br />
+Aug, 29-30, 2020:	SELF AWARENESS AND PERSONAL DEVELOPMENT	Airbus Develop Centre of Excellence <br />
