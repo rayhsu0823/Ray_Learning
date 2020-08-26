@@ -13,7 +13,7 @@
 ## Landscape project management (2012-2014)
 https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing
 
-![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.PNG)
+![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg)
 
 
 ## Personal interest (Photographer)
