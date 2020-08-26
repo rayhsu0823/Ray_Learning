@@ -15,6 +15,8 @@
 
 ![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg)
 
+<p>Link https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing</p>
+<p><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg" alt="" /></p>
 
 ## Personal interest (Photograph)
 ![Link](https://rayvolution.wixsite.com/photo)
