@@ -17,6 +17,6 @@
 
 
 ## Personal interest (Photograph)
-![Lnk](https://rayvolution.wixsite.com/photo)
+![Link](https://rayvolution.wixsite.com/photo)
 
 ![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/wedding1.jpg)
