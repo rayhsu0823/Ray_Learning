@@ -13,10 +13,6 @@
 ## Landscape project management (2012-2014)
 <p><a href="https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing">Link</a></p>
 
-![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg)
-
-<p>Link https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing</p>
-
 ## Personal interest (Photograph)
 <p><a title="Link" href="https://rayvolution.wixsite.com/photo"><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg" alt="" />Link&nbsp;</a></p>
 <p>&nbsp;</p>
