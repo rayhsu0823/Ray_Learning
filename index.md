@@ -18,3 +18,5 @@ https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing
 
 ## Personal interest (Photographer)
 https://rayvolution.wixsite.com/photo 
+
+![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/wedding1.jpg)
