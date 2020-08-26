@@ -22,3 +22,9 @@
 ![Link](https://rayvolution.wixsite.com/photo)
 
 ![image](https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/wedding1.jpg)
+
+<p><a href="https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing">Link</a></p>
+<p><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg" alt="Preview" /></p>
+<p><a title="Link" href="https://rayvolution.wixsite.com/photo"><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg" alt="" />Link&nbsp;</a></p>
+<p><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/wedding1.jpg" alt="Preview" /></p>
+<p>&nbsp;</p>
