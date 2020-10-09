@@ -22,5 +22,5 @@
 <p><a href="https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing">Link</a></p>
 
 ## Personal interest (Photograph)
-<p><a title="Link" href="https://rayvolution.wixsite.com/photo"><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/landscape1.jpg" alt="" />Link&nbsp;</a></p>
+<p><a href="https://rayvolution.wixsite.com/photo">Link</a></p>
 <p>&nbsp;</p>
