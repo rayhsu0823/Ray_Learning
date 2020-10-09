@@ -17,3 +17,5 @@
 
 <img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/linkedin.PNG">
 <a href="https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing"><img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/linkedin.PNG" border="0" title="Linkedin"></a>
+
+<a href="https://drive.google.com/file/d/0B3GiojNDYixeSjZnTEtrell0Unc/view?usp=sharing"><img src="https://imgur.com/a/DVXG6tZ" border="0" title="Linkedin"></a>
