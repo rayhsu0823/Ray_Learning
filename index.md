@@ -1,7 +1,7 @@
 # Self-Learning accomplishment 
 
 
-## Technical Skill:
+## Programming & Visualization Skill:
 <table style="border-collapse:collapse;border-color:#ccc;border-spacing:0;border:none;table-layout: fixed; width: 653px" class="tg"><colgroup><col style="width: 64px"><col style="width: 289px"><col style="width: 174px"><col style="width: 126px"></colgroup><thead>
   <tr><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#24292E;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Date</th><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#24292E;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Course name</th><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#24292E;font-family:Arial, Helvetica, sans-serif !important;;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Provider</th><th style="background-color:#D9D9D9;border-color:inherit;border-style:solid;border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Certification&nbsp;&nbsp;&nbsp;No.</th>
 
