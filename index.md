@@ -15,3 +15,5 @@
 ## Personal interest (Photograph)
 <p><a href="https://rayvolution.wixsite.com/photo">Link</a></p>
 
+<img src="https://github.com/rayhsu0823/Ray_Learning/blob/gh-pages/linkedin.PNG">
+
